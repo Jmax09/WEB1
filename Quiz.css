@@ -1,0 +1,29 @@
+
+body {
+    background-color: #1ab8ed;
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, Verdana, sans-serif;
+    font-weight: bold;
+    background: #EEAECA;
+    background: radial-gradient(circle,rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+}
+h1{
+    font-family: Arial, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 60px;
+    text-align: center;
+    text-decoration: underline;
+    background: #090979;
+    background: linear-gradient(90deg, rgba(9, 9, 121, 1) 0%, rgba(0, 212, 255, 1) 100%);
+    padding: 20px;
+    color: #fff;
+}
+
+p {
+    font-family: Arial, Verdana, sans-serif;
+    font-size: 30px;
+    line-height: 1.5;
+    padding: 20px;
+    text-align: justify;
+}
